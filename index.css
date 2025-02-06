@@ -1,0 +1,58 @@
+
+body {
+    background-image: url("https://t3.ftcdn.net/jpg/08/27/87/60/360_F_827876077_k0EWo3jSiWZPR8fRgsSbZFT9SkrozNuj.jpg");
+    background-size: cover;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: white;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: orange;
+    border: solid 1px white;
+    font-family: monospace;
+}
+
+#save-btn {
+    background: black;
+    border: solid 1px white;
+    font-family: monospace;
+}
+
+#save-el {
+    color: white;
+}
+
+#container {
+    background: linear-gradient(45deg, black, orange);
+    max-width: 80%;
+    margin: auto;
+    border-radius: 15px;
+    padding: 3px 0px 4px 0px;
+    border: solid 4px black;
+}
